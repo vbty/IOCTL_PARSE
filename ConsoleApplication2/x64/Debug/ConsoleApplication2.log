@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  ConsoleApplication2.cpp
+c:\users\vbtyqin\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(9): warning C4005: “METHOD_FROM_CTL_CODE”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(283): note: 参见“METHOD_FROM_CTL_CODE”的前一个定义
+  ConsoleApplication2.vcxproj -> C:\Users\vbtyqin\source\repos\ConsoleApplication2\x64\Debug\ioctl_parse.exe
